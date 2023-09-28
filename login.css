@@ -1,0 +1,59 @@
+body {
+    background-image: url("Genshin\ log\ photo.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#tabla {
+    margin-top: 18%;
+    border: 2px solid black;
+    background-color: white;
+}
+
+#div_email {
+    margin-top: 5%;
+}
+
+#div_email, #div_password {
+    margin-left: 15%;
+}
+
+#email, #password {
+    min-width: 10%;
+}
+
+.izquierda {
+    margin-left: -30%;
+}
+
+.title {
+    margin-left: 60%;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.alinear {
+    width: 134%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.dontTouch:hover {
+    color: black;
+    cursor: default;
+}
+
+.fail {
+    color: #ff4646;
+}
